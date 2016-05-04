@@ -1,0 +1,11 @@
+plus2_
+minus2_
+times2_
+parabola_
+linear_
+plus_
+sin_
+mult_
+sina_
+x1
+x2
